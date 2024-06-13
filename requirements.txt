@@ -4,3 +4,7 @@ scikit-learn
 matplotlib
 streamlit
 seaborn
+xlsxwriter
+joblib
+io
+PIL
